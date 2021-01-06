@@ -1,8 +1,8 @@
 # Power-BI-Project_102
 Budget Vs Forecast Analysis
 
-## In this dashboard I have analysed performance of a company in term of its sales performance in 2020.
-The dashboard points to the excel based sources that are linked together using common fields.
+## In this dashboard, I have analyzed the performance of a company in terms of its sales performance in 2020.
+The dashboard points to the excel-based sources that are linked together using common fields.
 
 ![It_sales_1](https://user-images.githubusercontent.com/61430361/103798743-23ac8480-5070-11eb-82e8-094e894e50b9.JPG)
 
